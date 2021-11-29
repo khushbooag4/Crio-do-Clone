@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Crio-do-Clone/static/css/main.466004b8.chunk.css",
+    "main.js": "/Crio-do-Clone/static/js/main.7a91679e.chunk.js",
+    "main.js.map": "/Crio-do-Clone/static/js/main.7a91679e.chunk.js.map",
+    "runtime-main.js": "/Crio-do-Clone/static/js/runtime-main.69656823.js",
+    "runtime-main.js.map": "/Crio-do-Clone/static/js/runtime-main.69656823.js.map",
+    "static/js/2.e012baff.chunk.js": "/Crio-do-Clone/static/js/2.e012baff.chunk.js",
+    "static/js/2.e012baff.chunk.js.map": "/Crio-do-Clone/static/js/2.e012baff.chunk.js.map",
+    "index.html": "/Crio-do-Clone/index.html",
+    "static/css/main.466004b8.chunk.css.map": "/Crio-do-Clone/static/css/main.466004b8.chunk.css.map",
+    "static/js/2.e012baff.chunk.js.LICENSE.txt": "/Crio-do-Clone/static/js/2.e012baff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69656823.js",
+    "static/js/2.e012baff.chunk.js",
+    "static/css/main.466004b8.chunk.css",
+    "static/js/main.7a91679e.chunk.js"
+  ]
+}
